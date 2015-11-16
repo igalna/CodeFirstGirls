@@ -1,0 +1,18 @@
+body {
+	background-image: url("images/taylorswiftwithcat.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+h2 {
+	color: red;
+}
+
+p {
+	font-family: 'Arial';
+}
+
+h2 {
+	font-size: 20px;
+}
